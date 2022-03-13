@@ -7,3 +7,4 @@ The Native layer captures network data logic in libNativeHook.so, the code calli
 ```java
 System.loadLibrary("NativeHook");
 ```
+the network data is saved at "手机存储/newout/sslread.txt" and "手机存储/newout/sslwrite.txt"
